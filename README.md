@@ -116,21 +116,13 @@ The dataset contains transactional data from an e-commerce platform, including:
 - Expand in high-performing regions  
 
 ---
-##Dashboard
+## Dashboard
+
+- <a href="https://github.com/harishkptn/Customer-segmentation-RFM-analysis-python-eda-sql-powerbi/blob/main/DashBoard.png">Dashboard</a>
 
 ## 🧠 Conclusion
 
 This project demonstrates how transactional data can be transformed into actionable business insights using RFM analysis.
-
----
-
-## ▶️ How to Run
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-Run the notebook step by step.
 
 ---
 
