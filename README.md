@@ -118,7 +118,7 @@ The dataset contains transactional data from an e-commerce platform, including:
 ---
 ## Dashboard
 
-(https://github.com/harishkptn/Customer-segmentation-RFM-analysis-python-eda-sql-powerbi/blob/main/DashBoard.png)
+![Dashboard](https://raw.githubusercontent.com/harishkptn/Customer-segmentation-RFM-analysis-python-eda-sql-powerbi/main/DashBoard.png)
 
 ## 🧠 Conclusion
 
